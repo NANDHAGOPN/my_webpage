@@ -232,9 +232,7 @@ header {
   transform: translate(-50%, -50%);
   text-align: center;
   z-index: 1;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+ 
 }
 /* name */
 .landing-text h1 {
